@@ -1,0 +1,1483 @@
+{
+  "Tesseract": {
+    "text": "Walmart >/<.\n\nSave money. Live better.\n\n970-728-1838 Mor JIM JAMES\n1155 S CAMINO DEL RIO\nDURANGO, CO 81303\nST# 5944 OP# 39934962 TE# 17 TR# 14322\n\nHDMI 6FT CABLE $18.99\nHARMONY UNV REMOTE $189.99\nSUBTOTAL $208.98\nTAX $13.37\nTOTAL. $222.35\nTEND $222.35\n\nACCOUNT # JHE HOHE ener VISA\nAPPROVAL # 716071\n\nREF # 3332300535EC\n\nTRANS ID - 6547341725EC7D3E\nVALIDATION - 8311\n\nPAYMENT SERVICE - E\n\nTERMINAL # AE9IDF99\n\n05/30/2020 12:20 AM\n# ITEMS SOLD 2\n1127 9617 1068\n\nTUELUILL iil\n\nLow prices you and trust. Every Day.\n\n05/30/2020 12:20 AM\n\nBiz)\n~\n\n",
+    "confidence": 0.8259550561797752,
+    "words_count": 89,
+    "words": [
+      {
+        "text": "Walmart",
+        "confidence": 0.93,
+        "bbox": [
+          281,
+          140,
+          301,
+          48
+        ]
+      },
+      {
+        "text": ">/<.",
+        "confidence": 0.4,
+        "bbox": [
+          601,
+          126,
+          102,
+          76
+        ]
+      },
+      {
+        "text": "Save",
+        "confidence": 0.93,
+        "bbox": [
+          290,
+          195,
+          56,
+          14
+        ]
+      },
+      {
+        "text": "money.",
+        "confidence": 0.68,
+        "bbox": [
+          352,
+          198,
+          90,
+          16
+        ]
+      },
+      {
+        "text": "Live",
+        "confidence": 0.68,
+        "bbox": [
+          449,
+          195,
+          50,
+          14
+        ]
+      },
+      {
+        "text": "better.",
+        "confidence": 0.88,
+        "bbox": [
+          505,
+          195,
+          83,
+          14
+        ]
+      },
+      {
+        "text": "970-728-1838",
+        "confidence": 0.92,
+        "bbox": [
+          307,
+          291,
+          159,
+          20
+        ]
+      },
+      {
+        "text": "Mor",
+        "confidence": 0.84,
+        "bbox": [
+          494,
+          291,
+          38,
+          22
+        ]
+      },
+      {
+        "text": "JIM",
+        "confidence": 0.96,
+        "bbox": [
+          548,
+          291,
+          38,
+          20
+        ]
+      },
+      {
+        "text": "JAMES",
+        "confidence": 0.96,
+        "bbox": [
+          601,
+          291,
+          65,
+          20
+        ]
+      },
+      {
+        "text": "1155",
+        "confidence": 0.9,
+        "bbox": [
+          351,
+          324,
+          49,
+          21
+        ]
+      },
+      {
+        "text": "S",
+        "confidence": 0.66,
+        "bbox": [
+          415,
+          324,
+          12,
+          21
+        ]
+      },
+      {
+        "text": "CAMINO",
+        "confidence": 0.86,
+        "bbox": [
+          441,
+          324,
+          79,
+          21
+        ]
+      },
+      {
+        "text": "DEL",
+        "confidence": 0.95,
+        "bbox": [
+          535,
+          324,
+          38,
+          21
+        ]
+      },
+      {
+        "text": "RIO",
+        "confidence": 0.93,
+        "bbox": [
+          588,
+          324,
+          39,
+          21
+        ]
+      },
+      {
+        "text": "DURANGO,",
+        "confidence": 0.96,
+        "bbox": [
+          374,
+          358,
+          101,
+          21
+        ]
+      },
+      {
+        "text": "CO",
+        "confidence": 0.95,
+        "bbox": [
+          494,
+          358,
+          25,
+          20
+        ]
+      },
+      {
+        "text": "81303",
+        "confidence": 0.95,
+        "bbox": [
+          534,
+          358,
+          65,
+          20
+        ]
+      },
+      {
+        "text": "ST#",
+        "confidence": 0.93,
+        "bbox": [
+          186,
+          391,
+          38,
+          20
+        ]
+      },
+      {
+        "text": "5944",
+        "confidence": 0.78,
+        "bbox": [
+          243,
+          391,
+          51,
+          20
+        ]
+      },
+      {
+        "text": "OP#",
+        "confidence": 0.84,
+        "bbox": [
+          329,
+          391,
+          39,
+          20
+        ]
+      },
+      {
+        "text": "39934962",
+        "confidence": 0.73,
+        "bbox": [
+          387,
+          391,
+          104,
+          20
+        ]
+      },
+      {
+        "text": "TE#",
+        "confidence": 0.73,
+        "bbox": [
+          527,
+          391,
+          38,
+          20
+        ]
+      },
+      {
+        "text": "17",
+        "confidence": 0.89,
+        "bbox": [
+          586,
+          391,
+          22,
+          20
+        ]
+      },
+      {
+        "text": "TR#",
+        "confidence": 0.87,
+        "bbox": [
+          642,
+          391,
+          38,
+          20
+        ]
+      },
+      {
+        "text": "14322",
+        "confidence": 0.95,
+        "bbox": [
+          702,
+          391,
+          62,
+          20
+        ]
+      },
+      {
+        "text": "HDMI",
+        "confidence": 0.74,
+        "bbox": [
+          186,
+          424,
+          51,
+          21
+        ]
+      },
+      {
+        "text": "6FT",
+        "confidence": 0.82,
+        "bbox": [
+          256,
+          424,
+          38,
+          21
+        ]
+      },
+      {
+        "text": "CABLE",
+        "confidence": 0.96,
+        "bbox": [
+          313,
+          424,
+          65,
+          21
+        ]
+      },
+      {
+        "text": "$18.99",
+        "confidence": 0.83,
+        "bbox": [
+          659,
+          424,
+          79,
+          21
+        ]
+      },
+      {
+        "text": "HARMONY",
+        "confidence": 0.96,
+        "bbox": [
+          186,
+          458,
+          92,
+          20
+        ]
+      },
+      {
+        "text": "UNV",
+        "confidence": 0.94,
+        "bbox": [
+          296,
+          458,
+          39,
+          20
+        ]
+      },
+      {
+        "text": "REMOTE",
+        "confidence": 0.96,
+        "bbox": [
+          353,
+          458,
+          78,
+          20
+        ]
+      },
+      {
+        "text": "$189.99",
+        "confidence": 0.9,
+        "bbox": [
+          646,
+          458,
+          92,
+          20
+        ]
+      },
+      {
+        "text": "SUBTOTAL",
+        "confidence": 0.95,
+        "bbox": [
+          386,
+          525,
+          105,
+          20
+        ]
+      },
+      {
+        "text": "$208.98",
+        "confidence": 0.53,
+        "bbox": [
+          646,
+          525,
+          92,
+          20
+        ]
+      },
+      {
+        "text": "TAX",
+        "confidence": 0.96,
+        "bbox": [
+          386,
+          558,
+          39,
+          20
+        ]
+      },
+      {
+        "text": "$13.37",
+        "confidence": 0.81,
+        "bbox": [
+          659,
+          558,
+          79,
+          20
+        ]
+      },
+      {
+        "text": "TOTAL.",
+        "confidence": 0.63,
+        "bbox": [
+          387,
+          587,
+          68,
+          36
+        ]
+      },
+      {
+        "text": "$222.35",
+        "confidence": 0.53,
+        "bbox": [
+          646,
+          591,
+          92,
+          21
+        ]
+      },
+      {
+        "text": "TEND",
+        "confidence": 0.96,
+        "bbox": [
+          386,
+          625,
+          52,
+          20
+        ]
+      },
+      {
+        "text": "$222.35",
+        "confidence": 0.45,
+        "bbox": [
+          646,
+          625,
+          92,
+          21
+        ]
+      },
+      {
+        "text": "ACCOUNT",
+        "confidence": 0.88,
+        "bbox": [
+          186,
+          691,
+          92,
+          22
+        ]
+      },
+      {
+        "text": "#",
+        "confidence": 0.88,
+        "bbox": [
+          297,
+          692,
+          11,
+          20
+        ]
+      },
+      {
+        "text": "JHE",
+        "confidence": 0.1,
+        "bbox": [
+          380,
+          695,
+          49,
+          14
+        ]
+      },
+      {
+        "text": "HOHE",
+        "confidence": 0.18,
+        "bbox": [
+          450,
+          694,
+          49,
+          15
+        ]
+      },
+      {
+        "text": "ener",
+        "confidence": 0.13,
+        "bbox": [
+          519,
+          694,
+          49,
+          15
+        ]
+      },
+      {
+        "text": "VISA",
+        "confidence": 0.78,
+        "bbox": [
+          586,
+          691,
+          52,
+          21
+        ]
+      },
+      {
+        "text": "APPROVAL",
+        "confidence": 0.8,
+        "bbox": [
+          186,
+          725,
+          105,
+          21
+        ]
+      },
+      {
+        "text": "#",
+        "confidence": 0.87,
+        "bbox": [
+          309,
+          725,
+          12,
+          20
+        ]
+      },
+      {
+        "text": "716071",
+        "confidence": 0.94,
+        "bbox": [
+          411,
+          725,
+          75,
+          21
+        ]
+      },
+      {
+        "text": "REF",
+        "confidence": 0.92,
+        "bbox": [
+          186,
+          758,
+          38,
+          21
+        ]
+      },
+      {
+        "text": "#",
+        "confidence": 0.92,
+        "bbox": [
+          243,
+          758,
+          11,
+          21
+        ]
+      },
+      {
+        "text": "3332300535EC",
+        "confidence": 0.84,
+        "bbox": [
+          320,
+          758,
+          158,
+          21
+        ]
+      },
+      {
+        "text": "TRANS",
+        "confidence": 0.94,
+        "bbox": [
+          186,
+          792,
+          65,
+          21
+        ]
+      },
+      {
+        "text": "ID",
+        "confidence": 0.92,
+        "bbox": [
+          271,
+          792,
+          23,
+          21
+        ]
+      },
+      {
+        "text": "-",
+        "confidence": 0.81,
+        "bbox": [
+          312,
+          801,
+          11,
+          3
+        ]
+      },
+      {
+        "text": "6547341725EC7D3E",
+        "confidence": 0.75,
+        "bbox": [
+          342,
+          792,
+          212,
+          21
+        ]
+      },
+      {
+        "text": "VALIDATION",
+        "confidence": 0.93,
+        "bbox": [
+          186,
+          825,
+          132,
+          21
+        ]
+      },
+      {
+        "text": "-",
+        "confidence": 0.73,
+        "bbox": [
+          336,
+          834,
+          12,
+          3
+        ]
+      },
+      {
+        "text": "8311",
+        "confidence": 0.93,
+        "bbox": [
+          366,
+          825,
+          49,
+          21
+        ]
+      },
+      {
+        "text": "PAYMENT",
+        "confidence": 0.96,
+        "bbox": [
+          186,
+          858,
+          91,
+          21
+        ]
+      },
+      {
+        "text": "SERVICE",
+        "confidence": 0.93,
+        "bbox": [
+          296,
+          858,
+          92,
+          21
+        ]
+      },
+      {
+        "text": "-",
+        "confidence": 0.88,
+        "bbox": [
+          407,
+          868,
+          10,
+          2
+        ]
+      },
+      {
+        "text": "E",
+        "confidence": 0.92,
+        "bbox": [
+          436,
+          858,
+          12,
+          21
+        ]
+      },
+      {
+        "text": "TERMINAL",
+        "confidence": 0.91,
+        "bbox": [
+          186,
+          892,
+          105,
+          21
+        ]
+      },
+      {
+        "text": "#",
+        "confidence": 0.91,
+        "bbox": [
+          310,
+          892,
+          10,
+          21
+        ]
+      },
+      {
+        "text": "AE9IDF99",
+        "confidence": 0.2,
+        "bbox": [
+          339,
+          892,
+          106,
+          21
+        ]
+      },
+      {
+        "text": "05/30/2020",
+        "confidence": 0.95,
+        "bbox": [
+          334,
+          959,
+          132,
+          20
+        ]
+      },
+      {
+        "text": "12:20",
+        "confidence": 0.91,
+        "bbox": [
+          537,
+          959,
+          62,
+          20
+        ]
+      },
+      {
+        "text": "AM",
+        "confidence": 0.96,
+        "bbox": [
+          614,
+          959,
+          25,
+          20
+        ]
+      },
+      {
+        "text": "#",
+        "confidence": 0.92,
+        "bbox": [
+          394,
+          992,
+          11,
+          21
+        ]
+      },
+      {
+        "text": "ITEMS",
+        "confidence": 0.95,
+        "bbox": [
+          422,
+          992,
+          64,
+          21
+        ]
+      },
+      {
+        "text": "SOLD",
+        "confidence": 0.95,
+        "bbox": [
+          501,
+          992,
+          51,
+          21
+        ]
+      },
+      {
+        "text": "2",
+        "confidence": 0.95,
+        "bbox": [
+          567,
+          992,
+          12,
+          21
+        ]
+      },
+      {
+        "text": "1127",
+        "confidence": 0.73,
+        "bbox": [
+          497,
+          1025,
+          48,
+          21
+        ]
+      },
+      {
+        "text": "9617",
+        "confidence": 0.67,
+        "bbox": [
+          574,
+          1026,
+          51,
+          20
+        ]
+      },
+      {
+        "text": "1068",
+        "confidence": 0.61,
+        "bbox": [
+          657,
+          1025,
+          49,
+          21
+        ]
+      },
+      {
+        "text": "iil",
+        "confidence": 0.43,
+        "bbox": [
+          710,
+          1049,
+          71,
+          59
+        ]
+      },
+      {
+        "text": "Low",
+        "confidence": 0.96,
+        "bbox": [
+          240,
+          1154,
+          38,
+          20
+        ]
+      },
+      {
+        "text": "prices",
+        "confidence": 0.96,
+        "bbox": [
+          293,
+          1161,
+          78,
+          14
+        ]
+      },
+      {
+        "text": "you",
+        "confidence": 0.96,
+        "bbox": [
+          386,
+          1161,
+          39,
+          15
+        ]
+      },
+      {
+        "text": "and",
+        "confidence": 0.95,
+        "bbox": [
+          440,
+          1154,
+          38,
+          20
+        ]
+      },
+      {
+        "text": "trust.",
+        "confidence": 0.96,
+        "bbox": [
+          495,
+          1154,
+          72,
+          20
+        ]
+      },
+      {
+        "text": "Every",
+        "confidence": 0.95,
+        "bbox": [
+          600,
+          1154,
+          65,
+          22
+        ]
+      },
+      {
+        "text": "Day.",
+        "confidence": 0.92,
+        "bbox": [
+          680,
+          1153,
+          48,
+          23
+        ]
+      },
+      {
+        "text": "05/30/2020",
+        "confidence": 0.96,
+        "bbox": [
+          334,
+          1207,
+          132,
+          20
+        ]
+      },
+      {
+        "text": "12:20",
+        "confidence": 0.95,
+        "bbox": [
+          537,
+          1207,
+          62,
+          20
+        ]
+      },
+      {
+        "text": "AM",
+        "confidence": 0.96,
+        "bbox": [
+          614,
+          1207,
+          25,
+          20
+        ]
+      }
+    ]
+  },
+  "EasyOCR": {
+    "text": "Walmart\nsavemonsy-Live better .\n970-728-1838\nMgr   JIM JAMES\n1155 $ CANINO DEL RIO\nDURANGO; CO 81303\nST# 5944\nOP#   39934962\nTE#\n17\nTR#\n14322\nHDMI GFT CABLE\n418,99\nHARMONY   UNV   REMOTE\n$189.99\nSUBTOTAL\n{203 , 98\nTaX\n413,37\nTOTAL\n4222.35\nTEND\n8222.35\nACCQUNT\n#\n##k#\n##rr\n#X#* VISA\nAPPROVAL\n#\n716071\nREF\n#\n3332300535EC\nTRANS   ID\n6547341725EC7D3E\nVALIdATION\n8311\nPAYMENT   SERVICE\nE\nTERNINAL\n# AE9IDF99\n05/30/2020\n12:20 AM\n# ITENS SOLD 2\nIC\n8774\n2146\n1127\n9617\n1068\nLow Prices you &nd\ntrust.\nEvery Day.\n05/30/2020\n12:20 AM",
+    "confidence": 0.7388676049736074,
+    "words_count": 57,
+    "words": [
+      {
+        "text": "Walmart",
+        "confidence": 0.7223824569843308,
+        "bbox": [
+          281,
+          133,
+          312,
+          64
+        ]
+      },
+      {
+        "text": "savemonsy-Live better .",
+        "confidence": 0.21812587888294585,
+        "bbox": [
+          286,
+          188,
+          306,
+          31
+        ]
+      },
+      {
+        "text": "970-728-1838",
+        "confidence": 0.8864592314399579,
+        "bbox": [
+          301,
+          285,
+          171,
+          31
+        ]
+      },
+      {
+        "text": "Mgr   JIM JAMES",
+        "confidence": 0.8017072208626076,
+        "bbox": [
+          488,
+          286,
+          184,
+          30
+        ]
+      },
+      {
+        "text": "1155 $ CANINO DEL RIO",
+        "confidence": 0.7859266567287362,
+        "bbox": [
+          346,
+          318,
+          286,
+          32
+        ]
+      },
+      {
+        "text": "DURANGO; CO 81303",
+        "confidence": 0.770139931876102,
+        "bbox": [
+          368,
+          352,
+          238,
+          32
+        ]
+      },
+      {
+        "text": "ST# 5944",
+        "confidence": 0.98811536063808,
+        "bbox": [
+          180,
+          386,
+          120,
+          30
+        ]
+      },
+      {
+        "text": "OP#   39934962",
+        "confidence": 0.6766531506920488,
+        "bbox": [
+          324,
+          386,
+          173,
+          32
+        ]
+      },
+      {
+        "text": "TE#",
+        "confidence": 0.999440194254727,
+        "bbox": [
+          522,
+          386,
+          48,
+          30
+        ]
+      },
+      {
+        "text": "17",
+        "confidence": 0.8981784070953175,
+        "bbox": [
+          580,
+          386,
+          34,
+          30
+        ]
+      },
+      {
+        "text": "TR#",
+        "confidence": 0.9653656292913908,
+        "bbox": [
+          638,
+          386,
+          48,
+          30
+        ]
+      },
+      {
+        "text": "14322",
+        "confidence": 0.9999819272076395,
+        "bbox": [
+          696,
+          386,
+          74,
+          30
+        ]
+      },
+      {
+        "text": "HDMI GFT CABLE",
+        "confidence": 0.3293089164574716,
+        "bbox": [
+          180,
+          420,
+          204,
+          32
+        ]
+      },
+      {
+        "text": "418,99",
+        "confidence": 0.7081494869207121,
+        "bbox": [
+          654,
+          420,
+          90,
+          30
+        ]
+      },
+      {
+        "text": "HARMONY   UNV   REMOTE",
+        "confidence": 0.440011171109426,
+        "bbox": [
+          180,
+          452,
+          258,
+          32
+        ]
+      },
+      {
+        "text": "$189.99",
+        "confidence": 0.46304123497564637,
+        "bbox": [
+          640,
+          452,
+          104,
+          32
+        ]
+      },
+      {
+        "text": "SUBTOTAL",
+        "confidence": 0.9987124496745766,
+        "bbox": [
+          382,
+          520,
+          114,
+          30
+        ]
+      },
+      {
+        "text": "{203 , 98",
+        "confidence": 0.2640720747612032,
+        "bbox": [
+          640,
+          520,
+          104,
+          32
+        ]
+      },
+      {
+        "text": "TaX",
+        "confidence": 0.4211286365058351,
+        "bbox": [
+          382,
+          554,
+          50,
+          30
+        ]
+      },
+      {
+        "text": "413,37",
+        "confidence": 0.3506817892834504,
+        "bbox": [
+          654,
+          554,
+          88,
+          30
+        ]
+      },
+      {
+        "text": "TOTAL",
+        "confidence": 0.979771571749203,
+        "bbox": [
+          382,
+          586,
+          74,
+          32
+        ]
+      },
+      {
+        "text": "4222.35",
+        "confidence": 0.38808569800340964,
+        "bbox": [
+          640,
+          588,
+          104,
+          30
+        ]
+      },
+      {
+        "text": "TEND",
+        "confidence": 0.9992569088935852,
+        "bbox": [
+          382,
+          620,
+          62,
+          32
+        ]
+      },
+      {
+        "text": "8222.35",
+        "confidence": 0.4089532596260734,
+        "bbox": [
+          640,
+          620,
+          104,
+          30
+        ]
+      },
+      {
+        "text": "ACCQUNT",
+        "confidence": 0.7958498733281163,
+        "bbox": [
+          180,
+          686,
+          104,
+          32
+        ]
+      },
+      {
+        "text": "#",
+        "confidence": 0.9996860273798944,
+        "bbox": [
+          295,
+          691,
+          16,
+          22
+        ]
+      },
+      {
+        "text": "##k#",
+        "confidence": 0.2387685924768448,
+        "bbox": [
+          374,
+          688,
+          60,
+          26
+        ]
+      },
+      {
+        "text": "##rr",
+        "confidence": 0.024056853726506233,
+        "bbox": [
+          444,
+          688,
+          60,
+          26
+        ]
+      },
+      {
+        "text": "#X#* VISA",
+        "confidence": 0.2122675056447866,
+        "bbox": [
+          512,
+          686,
+          132,
+          32
+        ]
+      },
+      {
+        "text": "APPROVAL",
+        "confidence": 0.9979976154355399,
+        "bbox": [
+          182,
+          720,
+          114,
+          32
+        ]
+      },
+      {
+        "text": "#",
+        "confidence": 0.999315379057407,
+        "bbox": [
+          305,
+          723,
+          20,
+          24
+        ]
+      },
+      {
+        "text": "716071",
+        "confidence": 0.9999944032927834,
+        "bbox": [
+          406,
+          720,
+          88,
+          32
+        ]
+      },
+      {
+        "text": "REF",
+        "confidence": 0.9998970377391188,
+        "bbox": [
+          182,
+          754,
+          48,
+          30
+        ]
+      },
+      {
+        "text": "#",
+        "confidence": 0.9999754430371155,
+        "bbox": [
+          239,
+          757,
+          18,
+          24
+        ]
+      },
+      {
+        "text": "3332300535EC",
+        "confidence": 0.941083140499053,
+        "bbox": [
+          314,
+          754,
+          170,
+          30
+        ]
+      },
+      {
+        "text": "TRANS   ID",
+        "confidence": 0.7441428745357367,
+        "bbox": [
+          182,
+          788,
+          120,
+          30
+        ]
+      },
+      {
+        "text": "6547341725EC7D3E",
+        "confidence": 0.916776101486927,
+        "bbox": [
+          337,
+          788,
+          222,
+          30
+        ]
+      },
+      {
+        "text": "VALIdATION",
+        "confidence": 0.7225014762199785,
+        "bbox": [
+          182,
+          820,
+          142,
+          32
+        ]
+      },
+      {
+        "text": "8311",
+        "confidence": 0.9999953508377075,
+        "bbox": [
+          360,
+          822,
+          62,
+          30
+        ]
+      },
+      {
+        "text": "PAYMENT   SERVICE",
+        "confidence": 0.6183692379763985,
+        "bbox": [
+          179,
+          854,
+          214,
+          32
+        ]
+      },
+      {
+        "text": "E",
+        "confidence": 0.9934295219411524,
+        "bbox": [
+          431,
+          855,
+          20,
+          26
+        ]
+      },
+      {
+        "text": "TERNINAL",
+        "confidence": 0.7970566593593065,
+        "bbox": [
+          182,
+          886,
+          114,
+          32
+        ]
+      },
+      {
+        "text": "# AE9IDF99",
+        "confidence": 0.6453394911546473,
+        "bbox": [
+          304,
+          888,
+          146,
+          30
+        ]
+      },
+      {
+        "text": "05/30/2020",
+        "confidence": 0.9771318689596231,
+        "bbox": [
+          328,
+          954,
+          144,
+          32
+        ]
+      },
+      {
+        "text": "12:20 AM",
+        "confidence": 0.5920730776404929,
+        "bbox": [
+          532,
+          954,
+          114,
+          32
+        ]
+      },
+      {
+        "text": "# ITENS SOLD 2",
+        "confidence": 0.7295410875223761,
+        "bbox": [
+          388,
+          988,
+          196,
+          30
+        ]
+      },
+      {
+        "text": "IC",
+        "confidence": 0.36672289712247746,
+        "bbox": [
+          264,
+          1020,
+          34,
+          32
+        ]
+      },
+      {
+        "text": "8774",
+        "confidence": 0.9831864833831787,
+        "bbox": [
+          328,
+          1022,
+          64,
+          30
+        ]
+      },
+      {
+        "text": "2146",
+        "confidence": 0.9875810000615208,
+        "bbox": [
+          408,
+          1022,
+          64,
+          30
+        ]
+      },
+      {
+        "text": "1127",
+        "confidence": 0.9998660683631897,
+        "bbox": [
+          492,
+          1020,
+          58,
+          32
+        ]
+      },
+      {
+        "text": "9617",
+        "confidence": 0.9998193383216858,
+        "bbox": [
+          570,
+          1022,
+          60,
+          30
+        ]
+      },
+      {
+        "text": "1068",
+        "confidence": 0.9972947835922241,
+        "bbox": [
+          652,
+          1020,
+          60,
+          32
+        ]
+      },
+      {
+        "text": "Low Prices you &nd",
+        "confidence": 0.7670375497114602,
+        "bbox": [
+          236,
+          1150,
+          246,
+          30
+        ]
+      },
+      {
+        "text": "trust.",
+        "confidence": 0.4983821759763749,
+        "bbox": [
+          490,
+          1150,
+          82,
+          28
+        ]
+      },
+      {
+        "text": "Every Day.",
+        "confidence": 0.6944349187002744,
+        "bbox": [
+          593,
+          1149,
+          139,
+          31
+        ]
+      },
+      {
+        "text": "05/30/2020",
+        "confidence": 0.8640934103252943,
+        "bbox": [
+          328,
+          1202,
+          144,
+          30
+        ]
+      },
+      {
+        "text": "12:20 AM",
+        "confidence": 0.5481369947719472,
+        "bbox": [
+          530,
+          1202,
+          116,
+          30
+        ]
+      }
+    ]
+  },
+  "Gemini": {
+    "text": "Walmart *\nSave money. Live better.\n\n970-728-1838 Mgr JIM JAMES\n1155 S CAMINO DEL RIO\nDURANGO, CO 81303\nST# 5944 OP# 39934962 TE# 17 TR# 14322\nHDMI 6FT CABLE $18.99\nHARMONY UNV REMOTE $189.99\n\nSUBTOTAL $208.98\nTAX $13.37\nTOTAL $222.35\nTEND $222.35\n\nACCOUNT # **** **** **** VISA\nAPPROVAL # 716071\nREF # 3332300535EC\nTRANS ID - 6547341725EC7D3E\nVALIDATION - 8311\nPAYMENT SERVICE - E\nTERMINAL # AE91DF99\n\n05/30/2020 12:20 AM\n# ITEMS SOLD 2\nTC # 8774 2146 1127 9617 1068\n\nLow prices you and trust. Every Day.\n05/30/2020 12:20 AM",
+    "confidence": 0.9,
+    "words_count": 0,
+    "words": []
+  },
+  "document_classification": "Unknown"
+}

@@ -1,0 +1,1603 @@
+{
+  "Tesseract": {
+    "text": "This is a lot of 12 point text to test the\nocr code and see if it works on all types\nof file format.\n\nThe quick brown dog jumped over the\nlazy fox. The quick brown dog jumped\nover the lazy fox. The quick brown dog\njumped over the lazy fox. The quick\nbrown dog jumped over the lazy fox.\n\nRIVERSIDE MEDICAL CENTRE\nNew York, NY 91743, USA\n\nNAME aba Smith AGE Sil\nAppress_/6Z Exany le St WI pate O9-Il-IZ\n\nbx\n\nBeteloe 100mg - | tb BD\nDorzolemidvm 10 mg =| tab BID\nCimetidine 50 mg - Z tebs TID\nOrprelel SOmy - | tab GD\n\nDe. Steve Jolson\nsignature\n\nCLABEL\nREFILL O(L22 3 4 5 PRN\n",
+    "confidence": 0.8427826086956524,
+    "words_count": 115,
+    "words": [
+      {
+        "text": "This",
+        "confidence": 0.96,
+        "bbox": [
+          208,
+          179,
+          92,
+          37
+        ]
+      },
+      {
+        "text": "is",
+        "confidence": 0.96,
+        "bbox": [
+          319,
+          179,
+          31,
+          37
+        ]
+      },
+      {
+        "text": "a",
+        "confidence": 0.95,
+        "bbox": [
+          368,
+          188,
+          23,
+          28
+        ]
+      },
+      {
+        "text": "lot",
+        "confidence": 0.95,
+        "bbox": [
+          411,
+          179,
+          49,
+          37
+        ]
+      },
+      {
+        "text": "of",
+        "confidence": 0.96,
+        "bbox": [
+          476,
+          179,
+          43,
+          37
+        ]
+      },
+      {
+        "text": "12",
+        "confidence": 0.96,
+        "bbox": [
+          536,
+          179,
+          47,
+          37
+        ]
+      },
+      {
+        "text": "point",
+        "confidence": 0.96,
+        "bbox": [
+          604,
+          179,
+          104,
+          46
+        ]
+      },
+      {
+        "text": "text",
+        "confidence": 0.96,
+        "bbox": [
+          723,
+          181,
+          81,
+          35
+        ]
+      },
+      {
+        "text": "to",
+        "confidence": 0.95,
+        "bbox": [
+          819,
+          181,
+          40,
+          35
+        ]
+      },
+      {
+        "text": "test",
+        "confidence": 0.95,
+        "bbox": [
+          876,
+          181,
+          79,
+          35
+        ]
+      },
+      {
+        "text": "the",
+        "confidence": 0.96,
+        "bbox": [
+          970,
+          179,
+          68,
+          37
+        ]
+      },
+      {
+        "text": "ocr",
+        "confidence": 0.96,
+        "bbox": [
+          208,
+          240,
+          69,
+          28
+        ]
+      },
+      {
+        "text": "code",
+        "confidence": 0.96,
+        "bbox": [
+          292,
+          231,
+          105,
+          37
+        ]
+      },
+      {
+        "text": "and",
+        "confidence": 0.96,
+        "bbox": [
+          415,
+          231,
+          78,
+          37
+        ]
+      },
+      {
+        "text": "see",
+        "confidence": 0.96,
+        "bbox": [
+          513,
+          240,
+          76,
+          28
+        ]
+      },
+      {
+        "text": "if",
+        "confidence": 0.96,
+        "bbox": [
+          609,
+          231,
+          23,
+          37
+        ]
+      },
+      {
+        "text": "it",
+        "confidence": 0.96,
+        "bbox": [
+          649,
+          231,
+          21,
+          37
+        ]
+      },
+      {
+        "text": "works",
+        "confidence": 0.96,
+        "bbox": [
+          684,
+          231,
+          129,
+          37
+        ]
+      },
+      {
+        "text": "on",
+        "confidence": 0.95,
+        "bbox": [
+          832,
+          240,
+          50,
+          28
+        ]
+      },
+      {
+        "text": "all",
+        "confidence": 0.95,
+        "bbox": [
+          915,
+          231,
+          45,
+          37
+        ]
+      },
+      {
+        "text": "types",
+        "confidence": 0.96,
+        "bbox": [
+          978,
+          233,
+          118,
+          45
+        ]
+      },
+      {
+        "text": "of",
+        "confidence": 0.96,
+        "bbox": [
+          208,
+          283,
+          43,
+          37
+        ]
+      },
+      {
+        "text": "file",
+        "confidence": 0.96,
+        "bbox": [
+          263,
+          283,
+          62,
+          37
+        ]
+      },
+      {
+        "text": "format.",
+        "confidence": 0.94,
+        "bbox": [
+          340,
+          283,
+          153,
+          37
+        ]
+      },
+      {
+        "text": "The",
+        "confidence": 0.96,
+        "bbox": [
+          208,
+          335,
+          84,
+          37
+        ]
+      },
+      {
+        "text": "quick",
+        "confidence": 0.96,
+        "bbox": [
+          308,
+          335,
+          115,
+          46
+        ]
+      },
+      {
+        "text": "brown",
+        "confidence": 0.95,
+        "bbox": [
+          441,
+          335,
+          130,
+          37
+        ]
+      },
+      {
+        "text": "dog",
+        "confidence": 0.95,
+        "bbox": [
+          591,
+          335,
+          79,
+          47
+        ]
+      },
+      {
+        "text": "jumped",
+        "confidence": 0.96,
+        "bbox": [
+          684,
+          335,
+          165,
+          47
+        ]
+      },
+      {
+        "text": "over",
+        "confidence": 0.96,
+        "bbox": [
+          867,
+          344,
+          96,
+          28
+        ]
+      },
+      {
+        "text": "the",
+        "confidence": 0.96,
+        "bbox": [
+          976,
+          335,
+          69,
+          37
+        ]
+      },
+      {
+        "text": "lazy",
+        "confidence": 0.96,
+        "bbox": [
+          209,
+          387,
+          84,
+          47
+        ]
+      },
+      {
+        "text": "fox.",
+        "confidence": 0.96,
+        "bbox": [
+          310,
+          387,
+          76,
+          36
+        ]
+      },
+      {
+        "text": "The",
+        "confidence": 0.96,
+        "bbox": [
+          405,
+          387,
+          84,
+          36
+        ]
+      },
+      {
+        "text": "quick",
+        "confidence": 0.96,
+        "bbox": [
+          507,
+          387,
+          114,
+          46
+        ]
+      },
+      {
+        "text": "brown",
+        "confidence": 0.95,
+        "bbox": [
+          639,
+          387,
+          130,
+          36
+        ]
+      },
+      {
+        "text": "dog",
+        "confidence": 0.96,
+        "bbox": [
+          789,
+          387,
+          78,
+          47
+        ]
+      },
+      {
+        "text": "jumped",
+        "confidence": 0.96,
+        "bbox": [
+          882,
+          387,
+          163,
+          47
+        ]
+      },
+      {
+        "text": "over",
+        "confidence": 0.96,
+        "bbox": [
+          208,
+          448,
+          96,
+          27
+        ]
+      },
+      {
+        "text": "the",
+        "confidence": 0.95,
+        "bbox": [
+          319,
+          438,
+          67,
+          37
+        ]
+      },
+      {
+        "text": "lazy",
+        "confidence": 0.95,
+        "bbox": [
+          405,
+          438,
+          85,
+          48
+        ]
+      },
+      {
+        "text": "fox.",
+        "confidence": 0.96,
+        "bbox": [
+          505,
+          438,
+          77,
+          37
+        ]
+      },
+      {
+        "text": "The",
+        "confidence": 0.96,
+        "bbox": [
+          601,
+          438,
+          84,
+          37
+        ]
+      },
+      {
+        "text": "quick",
+        "confidence": 0.96,
+        "bbox": [
+          702,
+          438,
+          115,
+          46
+        ]
+      },
+      {
+        "text": "brown",
+        "confidence": 0.96,
+        "bbox": [
+          835,
+          438,
+          129,
+          37
+        ]
+      },
+      {
+        "text": "dog",
+        "confidence": 0.96,
+        "bbox": [
+          984,
+          438,
+          80,
+          48
+        ]
+      },
+      {
+        "text": "jumped",
+        "confidence": 0.96,
+        "bbox": [
+          218,
+          490,
+          164,
+          48
+        ]
+      },
+      {
+        "text": "over",
+        "confidence": 0.96,
+        "bbox": [
+          400,
+          499,
+          98,
+          28
+        ]
+      },
+      {
+        "text": "the",
+        "confidence": 0.96,
+        "bbox": [
+          511,
+          490,
+          68,
+          37
+        ]
+      },
+      {
+        "text": "lazy",
+        "confidence": 0.96,
+        "bbox": [
+          598,
+          490,
+          84,
+          48
+        ]
+      },
+      {
+        "text": "fox.",
+        "confidence": 0.96,
+        "bbox": [
+          697,
+          490,
+          77,
+          37
+        ]
+      },
+      {
+        "text": "The",
+        "confidence": 0.96,
+        "bbox": [
+          793,
+          490,
+          85,
+          37
+        ]
+      },
+      {
+        "text": "quick",
+        "confidence": 0.96,
+        "bbox": [
+          894,
+          490,
+          115,
+          46
+        ]
+      },
+      {
+        "text": "brown",
+        "confidence": 0.96,
+        "bbox": [
+          209,
+          542,
+          130,
+          37
+        ]
+      },
+      {
+        "text": "dog",
+        "confidence": 0.96,
+        "bbox": [
+          359,
+          542,
+          79,
+          48
+        ]
+      },
+      {
+        "text": "jumped",
+        "confidence": 0.96,
+        "bbox": [
+          452,
+          542,
+          165,
+          48
+        ]
+      },
+      {
+        "text": "over",
+        "confidence": 0.96,
+        "bbox": [
+          635,
+          551,
+          96,
+          28
+        ]
+      },
+      {
+        "text": "the",
+        "confidence": 0.95,
+        "bbox": [
+          745,
+          542,
+          68,
+          37
+        ]
+      },
+      {
+        "text": "lazy",
+        "confidence": 0.95,
+        "bbox": [
+          832,
+          542,
+          84,
+          48
+        ]
+      },
+      {
+        "text": "fox.",
+        "confidence": 0.96,
+        "bbox": [
+          932,
+          542,
+          77,
+          37
+        ]
+      },
+      {
+        "text": "RIVERSIDE",
+        "confidence": 0.96,
+        "bbox": [
+          410,
+          690,
+          90,
+          13
+        ]
+      },
+      {
+        "text": "MEDICAL",
+        "confidence": 0.96,
+        "bbox": [
+          506,
+          690,
+          78,
+          13
+        ]
+      },
+      {
+        "text": "CENTRE",
+        "confidence": 0.96,
+        "bbox": [
+          589,
+          690,
+          67,
+          13
+        ]
+      },
+      {
+        "text": "New",
+        "confidence": 0.96,
+        "bbox": [
+          436,
+          732,
+          30,
+          13
+        ]
+      },
+      {
+        "text": "York,",
+        "confidence": 0.96,
+        "bbox": [
+          472,
+          732,
+          36,
+          15
+        ]
+      },
+      {
+        "text": "NY",
+        "confidence": 0.96,
+        "bbox": [
+          514,
+          732,
+          23,
+          13
+        ]
+      },
+      {
+        "text": "91743,",
+        "confidence": 0.96,
+        "bbox": [
+          542,
+          732,
+          44,
+          15
+        ]
+      },
+      {
+        "text": "USA",
+        "confidence": 0.96,
+        "bbox": [
+          592,
+          732,
+          30,
+          13
+        ]
+      },
+      {
+        "text": "NAME",
+        "confidence": 0.96,
+        "bbox": [
+          278,
+          797,
+          47,
+          12
+        ]
+      },
+      {
+        "text": "aba",
+        "confidence": 0.53,
+        "bbox": [
+          350,
+          781,
+          52,
+          27
+        ]
+      },
+      {
+        "text": "Smith",
+        "confidence": 0.76,
+        "bbox": [
+          415,
+          781,
+          61,
+          27
+        ]
+      },
+      {
+        "text": "AGE",
+        "confidence": 0.96,
+        "bbox": [
+          665,
+          797,
+          33,
+          12
+        ]
+      },
+      {
+        "text": "Sil",
+        "confidence": 0.64,
+        "bbox": [
+          738,
+          780,
+          32,
+          35
+        ]
+      },
+      {
+        "text": "Appress_/6Z",
+        "confidence": 0.44,
+        "bbox": [
+          274,
+          817,
+          128,
+          22
+        ]
+      },
+      {
+        "text": "Exany",
+        "confidence": 0.25,
+        "bbox": [
+          412,
+          811,
+          53,
+          44
+        ]
+      },
+      {
+        "text": "le",
+        "confidence": 0.87,
+        "bbox": [
+          476,
+          816,
+          13,
+          23
+        ]
+      },
+      {
+        "text": "St",
+        "confidence": 0.62,
+        "bbox": [
+          501,
+          818,
+          26,
+          21
+        ]
+      },
+      {
+        "text": "WI",
+        "confidence": 0.27,
+        "bbox": [
+          544,
+          816,
+          31,
+          24
+        ]
+      },
+      {
+        "text": "pate",
+        "confidence": 0.84,
+        "bbox": [
+          657,
+          827,
+          42,
+          12
+        ]
+      },
+      {
+        "text": "O9-Il-IZ",
+        "confidence": 0.2,
+        "bbox": [
+          705,
+          818,
+          77,
+          21
+        ]
+      },
+      {
+        "text": "bx",
+        "confidence": 0.45,
+        "bbox": [
+          281,
+          866,
+          62,
+          72
+        ]
+      },
+      {
+        "text": "Beteloe",
+        "confidence": 0.49,
+        "bbox": [
+          307,
+          986,
+          81,
+          30
+        ]
+      },
+      {
+        "text": "100mg",
+        "confidence": 0.77,
+        "bbox": [
+          411,
+          988,
+          65,
+          36
+        ]
+      },
+      {
+        "text": "-",
+        "confidence": 0.64,
+        "bbox": [
+          488,
+          1003,
+          6,
+          2
+        ]
+      },
+      {
+        "text": "|",
+        "confidence": 0.81,
+        "bbox": [
+          507,
+          993,
+          2,
+          16
+        ]
+      },
+      {
+        "text": "tb",
+        "confidence": 0.59,
+        "bbox": [
+          522,
+          986,
+          36,
+          24
+        ]
+      },
+      {
+        "text": "BD",
+        "confidence": 0.91,
+        "bbox": [
+          569,
+          986,
+          42,
+          30
+        ]
+      },
+      {
+        "text": "10",
+        "confidence": 0.7,
+        "bbox": [
+          483,
+          1032,
+          18,
+          22
+        ]
+      },
+      {
+        "text": "mg",
+        "confidence": 0.84,
+        "bbox": [
+          516,
+          1046,
+          25,
+          22
+        ]
+      },
+      {
+        "text": "=|",
+        "confidence": 0.53,
+        "bbox": [
+          553,
+          1037,
+          21,
+          16
+        ]
+      },
+      {
+        "text": "tab",
+        "confidence": 0.42,
+        "bbox": [
+          587,
+          1030,
+          36,
+          24
+        ]
+      },
+      {
+        "text": "BID",
+        "confidence": 0.71,
+        "bbox": [
+          634,
+          1030,
+          42,
+          30
+        ]
+      },
+      {
+        "text": "Cimetidine",
+        "confidence": 0.81,
+        "bbox": [
+          317,
+          1074,
+          109,
+          25
+        ]
+      },
+      {
+        "text": "50",
+        "confidence": 0.91,
+        "bbox": [
+          439,
+          1076,
+          28,
+          23
+        ]
+      },
+      {
+        "text": "mg",
+        "confidence": 0.78,
+        "bbox": [
+          481,
+          1090,
+          24,
+          18
+        ]
+      },
+      {
+        "text": "-",
+        "confidence": 0.82,
+        "bbox": [
+          517,
+          1091,
+          6,
+          2
+        ]
+      },
+      {
+        "text": "Z",
+        "confidence": 0.86,
+        "bbox": [
+          536,
+          1077,
+          12,
+          21
+        ]
+      },
+      {
+        "text": "tebs",
+        "confidence": 0.78,
+        "bbox": [
+          561,
+          1074,
+          45,
+          24
+        ]
+      },
+      {
+        "text": "TID",
+        "confidence": 0.96,
+        "bbox": [
+          616,
+          1075,
+          43,
+          24
+        ]
+      },
+      {
+        "text": "Orprelel",
+        "confidence": 0.26,
+        "bbox": [
+          322,
+          1118,
+          90,
+          36
+        ]
+      },
+      {
+        "text": "SOmy",
+        "confidence": 0.54,
+        "bbox": [
+          425,
+          1121,
+          57,
+          35
+        ]
+      },
+      {
+        "text": "-",
+        "confidence": 0.5,
+        "bbox": [
+          494,
+          1108,
+          10,
+          29
+        ]
+      },
+      {
+        "text": "|",
+        "confidence": 0.7,
+        "bbox": [
+          514,
+          1124,
+          1,
+          17
+        ]
+      },
+      {
+        "text": "tab",
+        "confidence": 0.58,
+        "bbox": [
+          529,
+          1118,
+          36,
+          24
+        ]
+      },
+      {
+        "text": "GD",
+        "confidence": 0.81,
+        "bbox": [
+          577,
+          1119,
+          38,
+          24
+        ]
+      },
+      {
+        "text": "De.",
+        "confidence": 0.43,
+        "bbox": [
+          493,
+          1286,
+          69,
+          29
+        ]
+      },
+      {
+        "text": "Steve",
+        "confidence": 0.9,
+        "bbox": [
+          575,
+          1287,
+          62,
+          22
+        ]
+      },
+      {
+        "text": "signature",
+        "confidence": 0.96,
+        "bbox": [
+          591,
+          1321,
+          58,
+          14
+        ]
+      },
+      {
+        "text": "CLABEL",
+        "confidence": 0.26,
+        "bbox": [
+          265,
+          1348,
+          65,
+          14
+        ]
+      },
+      {
+        "text": "REFILL",
+        "confidence": 0.93,
+        "bbox": [
+          260,
+          1372,
+          52,
+          12
+        ]
+      },
+      {
+        "text": "O(L22",
+        "confidence": 0.59,
+        "bbox": [
+          321,
+          1370,
+          39,
+          17
+        ]
+      },
+      {
+        "text": "3",
+        "confidence": 0.88,
+        "bbox": [
+          368,
+          1372,
+          7,
+          13
+        ]
+      },
+      {
+        "text": "4",
+        "confidence": 0.7,
+        "bbox": [
+          384,
+          1373,
+          7,
+          11
+        ]
+      },
+      {
+        "text": "5",
+        "confidence": 0.7,
+        "bbox": [
+          400,
+          1373,
+          8,
+          12
+        ]
+      },
+      {
+        "text": "PRN",
+        "confidence": 0.93,
+        "bbox": [
+          416,
+          1372,
+          31,
+          12
+        ]
+      }
+    ]
+  },
+  "EasyOCR": {
+    "text": "This is a lot of 12 point text to test the\nocr code and see if it works on\nall types\nof file format:\nThe quick brown\njumped over the\nlazy fox The quick brown dog jumped\nover the lazy fox. The quick brown dog\njumped over the\nfox; The quick\nbrown dog jumped over the\nfox\nRIVERSIDE MEDICAL CENTRE\n824 14\" Street\nNew York; NY 91743, USA\nNAME\nJoLa Smitl\nAGE\n34\nADDRESS\n162\nSt\nDATE\n09-1L-IZ\nBetaloc\n-1\n+45 Bid\nDorzolamizvm\nI0 ~J - / +4L gD\nCimetizine 50 ~3\n2 +45, TID\nOxprelal\n+45 QD\nSteve_JoLason\nsignature\nOLABEL\nREFILL 0D2 3 4 5 PRN\ndog\nlazy\nlazy\nExamgle\nIOO~3\n50ma",
+    "confidence": 0.7408929406344301,
+    "words_count": 43,
+    "words": [
+      {
+        "text": "This is a lot of 12 point text to test the",
+        "confidence": 0.7879030774419244,
+        "bbox": [
+          203,
+          168,
+          842,
+          67
+        ]
+      },
+      {
+        "text": "ocr code and see if it works on",
+        "confidence": 0.8589524496798701,
+        "bbox": [
+          200,
+          223,
+          690,
+          53
+        ]
+      },
+      {
+        "text": "all types",
+        "confidence": 0.969069857990717,
+        "bbox": [
+          907,
+          225,
+          198,
+          62
+        ]
+      },
+      {
+        "text": "of file format:",
+        "confidence": 0.5230888023670991,
+        "bbox": [
+          200,
+          276,
+          298,
+          50
+        ]
+      },
+      {
+        "text": "The quick brown",
+        "confidence": 0.7774665407000924,
+        "bbox": [
+          202,
+          320,
+          379,
+          72
+        ]
+      },
+      {
+        "text": "jumped over the",
+        "confidence": 0.9674574801716087,
+        "bbox": [
+          677,
+          327,
+          376,
+          64
+        ]
+      },
+      {
+        "text": "lazy fox The quick brown dog jumped",
+        "confidence": 0.8922793369567648,
+        "bbox": [
+          195,
+          372,
+          861,
+          73
+        ]
+      },
+      {
+        "text": "over the lazy fox. The quick brown dog",
+        "confidence": 0.6972634261916191,
+        "bbox": [
+          197,
+          424,
+          880,
+          74
+        ]
+      },
+      {
+        "text": "jumped over the",
+        "confidence": 0.9411804599842517,
+        "bbox": [
+          210,
+          480,
+          377,
+          66
+        ]
+      },
+      {
+        "text": "fox; The quick",
+        "confidence": 0.5492999820659938,
+        "bbox": [
+          686,
+          476,
+          337,
+          72
+        ]
+      },
+      {
+        "text": "brown dog jumped over the",
+        "confidence": 0.9627961931389603,
+        "bbox": [
+          201,
+          532,
+          620,
+          68
+        ]
+      },
+      {
+        "text": "fox",
+        "confidence": 0.9974789345795482,
+        "bbox": [
+          922,
+          535,
+          95,
+          54
+        ]
+      },
+      {
+        "text": "RIVERSIDE MEDICAL CENTRE",
+        "confidence": 0.9945492031271843,
+        "bbox": [
+          406,
+          682,
+          256,
+          26
+        ]
+      },
+      {
+        "text": "824 14\" Street",
+        "confidence": 0.9606895716408357,
+        "bbox": [
+          477,
+          707,
+          108,
+          20
+        ]
+      },
+      {
+        "text": "New York; NY 91743, USA",
+        "confidence": 0.7517508193980147,
+        "bbox": [
+          432,
+          726,
+          194,
+          24
+        ]
+      },
+      {
+        "text": "NAME",
+        "confidence": 0.999868631362915,
+        "bbox": [
+          275,
+          793,
+          54,
+          20
+        ]
+      },
+      {
+        "text": "JoLa Smitl",
+        "confidence": 0.4778038045845893,
+        "bbox": [
+          347,
+          779,
+          136,
+          36
+        ]
+      },
+      {
+        "text": "AGE",
+        "confidence": 0.9987185789521588,
+        "bbox": [
+          661,
+          793,
+          40,
+          20
+        ]
+      },
+      {
+        "text": "34",
+        "confidence": 0.9997456111005312,
+        "bbox": [
+          736,
+          782,
+          38,
+          28
+        ]
+      },
+      {
+        "text": "ADDRESS",
+        "confidence": 0.9996900832978651,
+        "bbox": [
+          271,
+          823,
+          80,
+          20
+        ]
+      },
+      {
+        "text": "162",
+        "confidence": 0.9931359608762929,
+        "bbox": [
+          360,
+          814,
+          46,
+          32
+        ]
+      },
+      {
+        "text": "St",
+        "confidence": 0.5327392594146654,
+        "bbox": [
+          498,
+          814,
+          38,
+          30
+        ]
+      },
+      {
+        "text": "DATE",
+        "confidence": 0.9956580084267418,
+        "bbox": [
+          653,
+          823,
+          50,
+          20
+        ]
+      },
+      {
+        "text": "09-1L-IZ",
+        "confidence": 0.4926859629495642,
+        "bbox": [
+          701,
+          813,
+          87,
+          33
+        ]
+      },
+      {
+        "text": "Betaloc",
+        "confidence": 0.873442887116553,
+        "bbox": [
+          303,
+          983,
+          92,
+          36
+        ]
+      },
+      {
+        "text": "-1",
+        "confidence": 0.3005314569116949,
+        "bbox": [
+          484,
+          990,
+          32,
+          24
+        ]
+      },
+      {
+        "text": "+45 Bid",
+        "confidence": 0.3192866097207356,
+        "bbox": [
+          515,
+          979,
+          102,
+          42
+        ]
+      },
+      {
+        "text": "Dorzolamizvm",
+        "confidence": 0.9369223421880338,
+        "bbox": [
+          306,
+          1028,
+          158,
+          32
+        ]
+      },
+      {
+        "text": "I0 ~J - / +4L gD",
+        "confidence": 0.24121537002687485,
+        "bbox": [
+          474,
+          1024,
+          210,
+          52
+        ]
+      },
+      {
+        "text": "Cimetizine 50 ~3",
+        "confidence": 0.5026113856747871,
+        "bbox": [
+          310,
+          1068,
+          202,
+          50
+        ]
+      },
+      {
+        "text": "2 +45, TID",
+        "confidence": 0.620125029721757,
+        "bbox": [
+          531,
+          1069,
+          134,
+          38
+        ]
+      },
+      {
+        "text": "Oxprelal",
+        "confidence": 0.5502101652451412,
+        "bbox": [
+          314,
+          1112,
+          108,
+          50
+        ]
+      },
+      {
+        "text": "+45 QD",
+        "confidence": 0.38477706755498614,
+        "bbox": [
+          524,
+          1116,
+          96,
+          32
+        ]
+      },
+      {
+        "text": "Steve_JoLason",
+        "confidence": 0.5080133030510555,
+        "bbox": [
+          571,
+          1281,
+          172,
+          36
+        ]
+      },
+      {
+        "text": "signature",
+        "confidence": 0.9975648990589081,
+        "bbox": [
+          589,
+          1321,
+          64,
+          16
+        ]
+      },
+      {
+        "text": "OLABEL",
+        "confidence": 0.9623509601600815,
+        "bbox": [
+          263,
+          1345,
+          70,
+          20
+        ]
+      },
+      {
+        "text": "REFILL 0D2 3 4 5 PRN",
+        "confidence": 0.7435638889972619,
+        "bbox": [
+          256,
+          1366,
+          194,
+          24
+        ]
+      },
+      {
+        "text": "dog",
+        "confidence": 0.999989263227318,
+        "bbox": [
+          575,
+          322,
+          108,
+          72
+        ]
+      },
+      {
+        "text": "lazy",
+        "confidence": 0.8724059939954958,
+        "bbox": [
+          583,
+          479,
+          111,
+          68
+        ]
+      },
+      {
+        "text": "lazy",
+        "confidence": 0.9731524586677551,
+        "bbox": [
+          815,
+          531,
+          113,
+          68
+        ]
+      },
+      {
+        "text": "Examgle",
+        "confidence": 0.6084685309800316,
+        "bbox": [
+          404,
+          811,
+          89,
+          42
+        ]
+      },
+      {
+        "text": "IOO~3",
+        "confidence": 0.15716205002417338,
+        "bbox": [
+          395,
+          971,
+          95,
+          63
+        ]
+      },
+      {
+        "text": "50ma",
+        "confidence": 0.18533074855804443,
+        "bbox": [
+          412,
+          1106,
+          84,
+          58
+        ]
+      }
+    ]
+  },
+  "Gemini": {
+    "text": "This is a lot of 12 point text to test the\nocr code and see if it works on all types\nof file format.\nThe quick brown dog jumped over the\nlazy fox. The quick brown dog jumped\nover the lazy fox. The quick brown dog\njumped over the lazy fox. The quick\nbrown dog jumped over the lazy fox.\n\nRIVERSIDE MEDICAL CENTRE\n824 14th Street\nNew York, NY 91743, USA\n\nNAME John Smith\nADDRESS 162 Example St, NY\nAGE 34\nDATE 09-11-12\n\nR\u2093\n\nBetaloc 100 mg - 1 tab BID\nDorzolamidum 10 mg - 1 tab BID\nCimetidine 50 mg - 2 tabs TID\nOxprelol 50 mg - 1 tab QD\n\nDr. Steve Johnson\nsignature\n\nLABEL\nREFILL 0 1 2 3 4 5 PRN",
+    "confidence": 0.9,
+    "words_count": 0,
+    "words": []
+  },
+  "document_classification": "Unknown"
+}
