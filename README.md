@@ -1,11 +1,11 @@
-# 🧠 AI Systems & Production Prototypes
+# 🔬 AI Engineering Lab: Applied Systems & Production Engines
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg)](https://streamlit.io)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10-00C0FF.svg)](https://developers.google.com/mediapipe)
 
-> A monorepo of production-grade AI prototypes, real-time computer vision engines, multimodal document extraction pipelines, and agentic workflows built by **[Ramchandra Babar](https://ram-portfolio-green.vercel.app/)**.
+> An applied engineering monorepo of production AI systems, real-time computer vision engines, multimodal document understanding pipelines, and deterministic agentic workflows built by **[Ramchandra Babar](https://ram-portfolio-green.vercel.app/)**.
 
 ---
 
